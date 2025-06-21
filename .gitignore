@@ -1,0 +1,5 @@
+**/.vscode/
+.env
+numpy_tutorial/output_data.txt
+**/.history/
+**/__pycache__
